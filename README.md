@@ -1,4 +1,4 @@
-"# js-tip-calculator" 
+# js-tip-calculator 
 
 
 Based off of this codepen right here: https://codepen.io/cphemm/pen/reNwWd
